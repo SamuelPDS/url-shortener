@@ -101,7 +101,7 @@ spring:
 
 ```shell
 # Clonar repositório
-git clone <repository-url>
+git clone https://github.com/SamuelPDS/url-shortener.git
 cd shortenet-url
 
 # Executar com Maven

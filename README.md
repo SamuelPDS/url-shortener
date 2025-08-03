@@ -4,7 +4,7 @@ Seu novo `README.md` para o projeto Shortenet URL, seguindo o modelo do OrderHub
 
 # Shortenet URL - Sistema de Encurtamento de URLs
 
-Shortenet URL é um sistema completo para encurtar URLs, desenvolvido com Spring Boot, persistência em PostgreSQL, mapeamento com MapStruct e arquitetura REST.
+Shortener URL é um sistema completo para encurtar URLs, desenvolvido com Spring Boot, persistência em PostgreSQL, mapeamento com MapStruct e arquitetura REST.
 
 ## 🚀 Funcionalidades
 

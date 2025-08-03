@@ -116,11 +116,11 @@ cd shortenet-url
 - **Métricas**  
   `GET /actuator/metrics`
 
-## 🧪 Testes
+## 🧪 Testes - a ser implementado
 
 ```shell
-# Executar todos os testes
-./mvnw test (A FAZER)
+# Executar todos os testes 
+./mvnw test
 ```
 
 ## 📝 Exemplo de Uso

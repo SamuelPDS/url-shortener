@@ -138,25 +138,3 @@ curl -X POST http://localhost:8080/urls \
 ```shell
 curl -L http://localhost:8080/abc123
 ```
-
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Commit suas mudanças (`git commit -m 'Add NovaFeature'`)
-4. Push para a branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-## 📞 Suporte
-
-- Email: suporte@seuprojeto.com
-- GitHub Issues: Criar Issue
-- Documentação: Wiki do Projeto
-
----
-
-Esse modelo segue o padrão do OrderHub, adaptado para o contexto do Shortenet URL.

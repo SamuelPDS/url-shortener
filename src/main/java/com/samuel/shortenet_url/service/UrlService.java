@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
 import java.util.Objects;
+import java.util.Optional;
 
 @Service
 @AllArgsConstructor
@@ -44,6 +45,10 @@ public class UrlService {
     }
 
     private Url persistUrl(UrlDTO dto) {
+        Optional<Url> urlSaved = repository.findByOriginalUrl(dto.originalUrl());
+        if (urlSaved.isPresent()) {
+            return urlSaved.get();
+        }
         Url url = new Url(dto);
         return saveUrl(url);
     }

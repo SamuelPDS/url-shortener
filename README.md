@@ -18,7 +18,7 @@ Shortener URL é um sistema completo para encurtar URLs, desenvolvido com Spring
 
 ### Recursos Técnicos
 
-🔒 Segurança: Spring Security (opcional)  
+🔒 Segurança: Spring Security (A implementar)  
 📊 Monitoramento: Spring Boot Actuator para métricas e health checks  
 🗄️ Persistência: JPA/Hibernate com PostgreSQL  
 🔍 Mapeamento: MapStruct para conversão entre entidades e DTOs  

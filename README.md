@@ -120,7 +120,7 @@ cd shortenet-url
 
 ```shell
 # Executar todos os testes
-./mvnw test
+./mvnw test (A FAZER)
 ```
 
 ## 📝 Exemplo de Uso
